@@ -245,11 +245,11 @@ Evaluation console output:<br>
 
 <a href="./projects/TensorflowSlightlyFlexibleUNet/ETIS-LaribPolypDB/evaluation.csv">evaluation.csv</a><br>
 
-The loss (bce_dice_loss) to this ETIS-LaribPolypDB/test was not low, but dice_coef not so high as shown below.
+The loss (bce_dice_loss) to this ETIS-LaribPolypDB/test was low, and dice_coef high as shown below.
 <br>
 <pre>
-loss,0.3021
-dice_coef,0.6692
+loss,0.0953
+dice_coef,0.8524
 </pre>
 <br>
 
