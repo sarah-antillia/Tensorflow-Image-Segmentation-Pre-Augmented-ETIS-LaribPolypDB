@@ -106,7 +106,6 @@ ETIS-LaribPolypDB-ImageMask-Dataset.zip</a>
 </pre>
 <br>
 On the derivation of this dataset, please refer to the following Python scripts:<br>
-<li><a href="./generator/PreProcessor.py">PreProcessor.py</a></li>
 <li><a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a></li>
 <li><a href="./generator/split_master.py">split_master.py.</a></li>
 <br>
